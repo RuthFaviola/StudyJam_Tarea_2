@@ -1,6 +1,6 @@
 # Solucion Tarea 2 - Study Jam
 
-Dentro de este repositorio se encuentra la tarea 1 del Study Jam, en el cual
+Dentro de este repositorio se encuentra la tarea 2 del Study Jam, en el cual
 hacemos la copia de interfaz grafica de una aplicacion movil.
 
 ## Requerimientos
